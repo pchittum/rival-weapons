@@ -15,7 +15,7 @@
         }
       }
     },
-	
+
     "components": {
       "minecraft:identifier": {
         "id": "minecraft:tnt"
@@ -29,13 +29,13 @@
       },
 
       "minecraft:explode": {
-        "fuseLength": 4,
+        "fuseLength": 2,
         "fuseLit": true,
-        "power": 4,
-        "causesFire": false
+        "power": 1000,
+        "causesFire": true
       }
     },
-    
+
     "events": {
       "from_explosion": {
         "add": {

@@ -5,10 +5,10 @@
   "component_groups": {
    "minecraft:exploding": {
     "minecraft:explode": {
-     "fuseLength": 0,
+     "fuseLength": 1,
      "fuseLit": true,
-     "power": 1,
-     "causesFire": true
+     "power": 10.9,
+     "causesFire": false
     }
    }
   },
@@ -22,7 +22,7 @@
     "height": 0.31
    },
    "minecraft:projectile": {
-    
+
     "onHit": {
      "definition_event": {
       "affectProjectile": true,

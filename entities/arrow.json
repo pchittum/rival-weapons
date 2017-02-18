@@ -20,12 +20,12 @@
         },
         "stick_in_ground": {
         },
-        "arrow_effect": {
+        "arrow_effect lightning_bolt": {
         }
        },
        "hitSound": "bow.hit",
        "power": 1.6,
-       "gravity": 0.05,
+       "gravity": 1.0,
        "uncertaintyBase": 16,
        "uncertaintyMultiplier": 4,
        "anchor": 1,
