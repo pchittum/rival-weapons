@@ -1,22 +1,15 @@
 {
   "header": {
-    "pack_id": "ee649bcf-256c-4013-9068-6a802b89d756",
-    "name": "resourcePack.vanilla_server.name",
+    "pack_id": "e32a0339-d328-47f6-b761-a7068c50ab18",
+    "name": "resourcePack.rivalWeapons.name",
     "packs_version": "0.0.1",
+    "description": "Jon and Dan making stuff blow up big!",
     "modules": [
       {
-        "description": "resourcePack.vanilla_server.description",
+        "description": "resourcePack.rivalWeapons.description",
         "version": "0.0.1",
-        "uuid": "fa6e90c8-c925-460f-8155-c8a60b753caa",
+        "uuid": "0f891b7d-1077-498c-808c-6a71835ff88a",
         "type": "data"
-      }
-    ],
-    "dependencies": [
-      {
-        "description": "resourcePack.vanilla.description",
-        "version": "0.0.1",
-        "uuid": "743f6949-53be-44b6-b326-398005028819",
-        "type": "resources"
       }
     ]
   }
